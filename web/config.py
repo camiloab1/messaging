@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgresql+psycopg://pguser:pgpass@postgres:5432/messaging'
